@@ -5,8 +5,8 @@
 <br>
 
 <a href="https://github.com/anabbarbosa"><img src="https://img.shields.io/badge/GitHub-1d1630?style=flat&logo=github&logoColor=b4a8e0" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/anajbarboda"><img src="https://img.shields.io/badge/LinkedIn-1d1630?style=flat&logo=linkedin&logoColor=b4a8e0" alt="LinkedIn"/></a>
-<a href="https://instagram.com/anajbarbosaa"><img src="https://img.shields.io/badge/Instagram-1d1630?style=flat&logo=instagram&logoColor=b4a8e0" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/anajbarbosa"><img src="https://img.shields.io/badge/LinkedIn-1d1630?style=flat&logo=LinkedIn&logoColor=b4a8e0" alt="LinkedIn"/></a>
+<a href="https://instagram.com/anabbarbosaa"><img src="https://img.shields.io/badge/Instagram-1d1630?style=flat&logo=instagram&logoColor=b4a8e0" alt="Instagram"/></a>
 
 </div>
 
