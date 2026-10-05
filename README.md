@@ -12,7 +12,7 @@
 
 <br>
 
-## Hi, I'm Ana 👋
+## Hi, I'm Ana
 
 I'm a data engineer. I like the part of the job where messy data goes in and something people can actually use comes out: pipelines, SQL, ETL, dashboards.
 
@@ -22,26 +22,22 @@ Right now I'm focused on growing as a data engineer and learning the modern tool
 
 <br>
 
-## Stack
-
+## Tech Stack
+ 
 **Languages**<br>
-<img src="https://skillicons.dev/icons?i=python,java,c,cs,php,javascript" alt="languages"/>
-
-**Data & databases**<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="databases"/>
-
-<img src="https://img.shields.io/badge/SQL-1d1630?style=flat&logo=postgresql&logoColor=b4a8e0"/>
-<img src="https://img.shields.io/badge/ETL-1d1630?style=flat&logo=databricks&logoColor=b4a8e0"/>
-<img src="https://img.shields.io/badge/Power%20BI-1d1630?style=flat&logo=powerbi&logoColor=b4a8e0"/>
-<img src="https://img.shields.io/badge/Report%20Builder-1d1630?style=flat&logo=microsoft&logoColor=b4a8e0"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,c,cs,php,javascript" alt="Python, Java, C, C#, PHP, JavaScript"/>
+ 
+**Databases**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL"/>
+ 
+**BI & reporting**<br>
+<img src="assets/data-tools.svg" alt="Power BI, Report Builder"/>
+ 
 **Learning next**<br>
-<img src="https://img.shields.io/badge/PySpark-1d1630?style=flat&logo=apachespark&logoColor=b4a8e0"/>
-<img src="https://img.shields.io/badge/Airflow-1d1630?style=flat&logo=apacheairflow&logoColor=b4a8e0"/>
-<img src="https://img.shields.io/badge/Snowflake-1d1630?style=flat&logo=snowflake&logoColor=b4a8e0"/>
-<img src="https://img.shields.io/badge/AWS-1d1630?style=flat&logo=amazonaws&logoColor=b4a8e0"/>
-
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS"/> <img src="assets/learning.svg" alt="PySpark, Airflow, Snowflake"/>
+ 
 <br>
+
 
 ## Projects
 
