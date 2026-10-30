@@ -34,7 +34,7 @@
   </g>
 
   <g transform="translate(426,116)">
-    <rect x="0.5" y="0.5" width="409" height="99" rx="10" fill="#1d1630" stroke="#b4a8e0"/>
+    <rect x="0.5" y="0.5" width="409" height="99" rx="10" fill="#1d1630"/>
     <text class="label" x="20" y="30" style="fill:#b4a8e0">04 · cloud &amp; tools</text>
     <rect class="chip-a" x="20.5" y="46.5" width="43" height="25" rx="12.5"/><text class="tag-a" x="42" y="64">aws</text>
     <rect class="chip-a" x="71.5" y="46.5" width="75" height="25" rx="12.5"/><text class="tag-a" x="109" y="64">pyspark</text>
