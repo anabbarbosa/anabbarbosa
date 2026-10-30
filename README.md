@@ -19,6 +19,7 @@ I studied Systems Analysis and Development, so I come at data from the software 
 
 <a href="https://github.com/anabbarbosa/wnba-engineering"><img src="assets/project-wnba.svg" alt="wnba-engineering — a real-world dataset taken through a full data engineering workflow" width="49%"/></a>
 <a href="https://github.com/anabbarbosa/db-data-agents"><img src="assets/project-agents.svg" alt="db-data-agents — an AI agent for PostgreSQL: ask questions about your database in plain language" width="49%"/></a>
+<a href="https://github.com/anabbarbosa/predictive_race_strategy"><img src="assets/project-race.svg" alt="predictive_race_strategy — predicts Formula 1 lap times with machine learning, then simulates pit stops to find the fastest strategy" width="49%"/></a>
 
 <br>
 

@@ -1,0 +1,8 @@
+<svg width="410" height="112" viewBox="0 0 410 112" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="predictive_race_strategy — predict Formula 1 lap times with machine learning, then simulate pit stops to find the fastest strategy">
+  <rect x="0.5" y="0.5" width="409" height="111" rx="10" fill="#1d1630" stroke="#2e2642"/>
+  <text x="20" y="36" font-family="'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="14" font-weight="700" fill="#b4a8e0">predictive_race_strategy</text>
+  <text font-family="-apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#a89fbf">
+    <tspan x="20" y="66">Predicts F1 lap times with machine learning, then</tspan>
+    <tspan x="20" y="86">simulates pit stops to find the fastest strategy.</tspan>
+  </text>
+</svg>
