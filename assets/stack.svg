@@ -1,0 +1,44 @@
+<svg width="836" height="216" viewBox="0 0 836 216" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stack — languages: Python, SQL, Java, C#, JavaScript; storage: PostgreSQL, MySQL; serve: Power BI, Report Builder; cloud and tools: AWS, PySpark, Airflow, Snowflake">
+  <style>
+    text { font-family: 'JetBrains Mono', Consolas, 'SFMono-Regular', ui-monospace, monospace; }
+    .card { fill: #1d1630; stroke: #2e2642; }
+    .label { font-size: 12px; fill: #a89fbf; }
+    .chip { fill: #2a2140; }
+    .tag { font-size: 13px; fill: #e7e0f2; text-anchor: middle; }
+    .chip-a { fill: none; stroke: #b4a8e0; }
+    .tag-a { font-size: 13px; fill: #b4a8e0; text-anchor: middle; }
+  </style>
+
+  <g transform="translate(0,0)">
+    <rect class="card" x="0.5" y="0.5" width="409" height="99" rx="10"/>
+    <text class="label" x="20" y="30">01 · languages</text>
+    <rect class="chip" x="20" y="46" width="67" height="26" rx="13"/><text class="tag" x="53.5" y="64">python</text>
+    <rect class="chip" x="95" y="46" width="43" height="26" rx="13"/><text class="tag" x="116.5" y="64">sql</text>
+    <rect class="chip" x="146" y="46" width="51" height="26" rx="13"/><text class="tag" x="171.5" y="64">java</text>
+    <rect class="chip" x="205" y="46" width="36" height="26" rx="13"/><text class="tag" x="223" y="64">c#</text>
+    <rect class="chip" x="249" y="46" width="98" height="26" rx="13"/><text class="tag" x="298" y="64">javascript</text>
+  </g>
+
+  <g transform="translate(426,0)">
+    <rect class="card" x="0.5" y="0.5" width="409" height="99" rx="10"/>
+    <text class="label" x="20" y="30">02 · storage</text>
+    <rect class="chip" x="20" y="46" width="98" height="26" rx="13"/><text class="tag" x="69" y="64">postgresql</text>
+    <rect class="chip" x="126" y="46" width="59" height="26" rx="13"/><text class="tag" x="155.5" y="64">mysql</text>
+  </g>
+
+  <g transform="translate(0,116)">
+    <rect class="card" x="0.5" y="0.5" width="409" height="99" rx="10"/>
+    <text class="label" x="20" y="30">03 · serve</text>
+    <rect class="chip" x="20" y="46" width="82" height="26" rx="13"/><text class="tag" x="61" y="64">power bi</text>
+    <rect class="chip" x="110" y="46" width="129" height="26" rx="13"/><text class="tag" x="174.5" y="64">report builder</text>
+  </g>
+
+  <g transform="translate(426,116)">
+    <rect x="0.5" y="0.5" width="409" height="99" rx="10" fill="#1d1630" stroke="#b4a8e0"/>
+    <text class="label" x="20" y="30" style="fill:#b4a8e0">04 · cloud &amp; tools</text>
+    <rect class="chip-a" x="20.5" y="46.5" width="43" height="25" rx="12.5"/><text class="tag-a" x="42" y="64">aws</text>
+    <rect class="chip-a" x="71.5" y="46.5" width="75" height="25" rx="12.5"/><text class="tag-a" x="109" y="64">pyspark</text>
+    <rect class="chip-a" x="154.5" y="46.5" width="75" height="25" rx="12.5"/><text class="tag-a" x="192" y="64">airflow</text>
+    <rect class="chip-a" x="237.5" y="46.5" width="90" height="25" rx="12.5"/><text class="tag-a" x="282.5" y="64">snowflake</text>
+  </g>
+</svg>
